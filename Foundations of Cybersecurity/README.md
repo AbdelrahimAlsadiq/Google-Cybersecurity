@@ -1,15 +1,6 @@
-## Week 1
-- Cybersecurity Defintion
-- Key Cybersecurity Terms and Concepts
-- Transferable Skills
-- Technical Skills
-
----
-## Week 2
-- Common Attacks and their Effectiveness
-- Social Engineering Principles
-- Certified Information Systems Security Professional (CISSP) Security Domains
-- Attack Types
-
----
-## Week 3
+# Course Outline
+- Core Security Concepts.
+- Skills for Security Analysts.
+- Eight Security Domains.
+- Security Frameworks and Controls.
+- Common Tools and Programming Languages.
