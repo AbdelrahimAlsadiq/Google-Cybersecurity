@@ -2,4 +2,4 @@
 - Structure of a network.
 - Network operations.
 - Network attacks.
-- Security hardening.
+- Security hardening techniques.
