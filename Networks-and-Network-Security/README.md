@@ -1,5 +1,5 @@
 # Course Outline
-- Structure of a network.
-- Network operations.
-- Network attacks.
-- Security hardening.
+- Network Architecture.
+- Network Operations.
+- Types of Network Attacks and Techniques.
+- Security Hardening Techniques.
