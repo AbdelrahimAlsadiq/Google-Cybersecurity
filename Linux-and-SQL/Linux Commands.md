@@ -37,6 +37,8 @@
 
 <br/>
 
+---
+---
 # Week 3
 ### ```pwd```
 - Prints the working directory onto the screen.
