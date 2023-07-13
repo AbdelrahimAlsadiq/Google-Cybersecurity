@@ -1,4 +1,3 @@
-# Week 2
 ### ```sudo apt install PackageName```
 - Installs a package.
 - Example: ```sudo apt install tcpdump```
@@ -37,9 +36,6 @@
 
 <br/>
 
----
----
-# Week 3
 ### ```pwd```
 - Prints the working directory onto the screen.
 
