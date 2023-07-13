@@ -1,4 +1,4 @@
-<a href="https://www.coursera.org/account/accomplishments/certificate/PWS9L7YGAGZP" target="_blank"><img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Foundations-of-Cybersecurity/Certificate.jpg' width='100%'></a>
+<img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Foundations-of-Cybersecurity/Certificate.jpg' width='100%'>
 
 # Course Outline
 - Core Security Concepts.
