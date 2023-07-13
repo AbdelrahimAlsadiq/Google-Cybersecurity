@@ -15,10 +15,9 @@
 
 ---
 ## Week 2
-- 
-- 
-- 
-- 
+- The Architecture of Linux
+- Different Distributions of Linux
+- The Shell
 
 ---
 ## Week 3
