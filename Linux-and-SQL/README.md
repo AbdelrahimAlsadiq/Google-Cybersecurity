@@ -8,10 +8,10 @@
 
 ---
 ## Week 1
-- 
-- 
-- 
-- 
+- Common Operating Systems.
+- Main functions of an operating system.
+- Relationship between operating systems, applications, and hardware.
+- Graphical User Interface (GUI) and Command-Line Interface (CLI).
 
 ---
 ## Week 2
