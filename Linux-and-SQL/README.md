@@ -15,16 +15,16 @@
 
 ---
 ## Week 2
-- The Architecture of Linux
-- Different Distributions of Linux
-- The Shell
+- The Architecture of Linux.
+- Different Distributions of Linux.
+- The Shell.
 
 ---
 ## Week 3
-- 
-- 
-- 
-- 
+- The Command line.
+- Navigating and Managing the file system.
+- Authenticating and Authorizing users.
+- Accessing Resources.
 
 ---
 ## Week 4
