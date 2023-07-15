@@ -2,7 +2,7 @@
 
 # Course Outline
 - Operating Systems and how they relate to applications and hardware.
-- The Linux operating oystem.
+- The Linux operating system.
 - The Linux command line.
 - SQL to query databases.
 
