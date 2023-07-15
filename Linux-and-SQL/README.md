@@ -1,10 +1,10 @@
-<img align='center' src='' width='100%'>
+<img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Linux-and-SQL/Certificate.jpg' width='100%'>
 
 # Course Outline
-- 
-- 
-- 
-- 
+- Operating Systems and how they relate to applications and hardware.
+- The Linux operating oystem.
+- The Linux command line.
+- SQL to query databases.
 
 ---
 ## Week 1
@@ -28,7 +28,7 @@
 
 ---
 ## Week 4
-- 
-- 
-- 
-- 
+- Relational Databases.
+- SQL Queries.
+- SQL Filters.
+- SQL Joins.
