@@ -17,10 +17,9 @@
 
 ---
 ## Week 2
-- 
-- 
-- 
-- 
+- Effective data handling processes.
+- The role of encryption and hashing in safeguarding information.
+- Standard access controls.
 
 ---
 ## Week 3
