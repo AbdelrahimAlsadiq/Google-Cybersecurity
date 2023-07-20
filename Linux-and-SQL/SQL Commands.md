@@ -2,11 +2,18 @@
 - Indicates which columns to return.
 
 ---
-### ```FROM```
+### 
+```sql
+FROM
+```
 - Indicates which table to query.
 - Examples:
-  - ```SELECT employee_id, device_id FROM employees;```
-  - ```SELECT * FROM employees;```
+  - ```sql
+    SELECT employee_id, device_id FROM employees;
+    ```
+  - ```sql
+    SELECT * FROM employees;
+    ```
 
 ---
 ### ```ORDER BY```
