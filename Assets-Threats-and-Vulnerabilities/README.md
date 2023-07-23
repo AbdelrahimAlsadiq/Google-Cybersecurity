@@ -1,11 +1,10 @@
-<img align='center' src='' width='100%'>
+<img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Assets-Threats-and-Vulnerabilities/Certificate.jpg' width='100%'>
 
 # Course Outline
-- .
-- .
-- .
-- .
-- .
+- Asset organizations protect.
+- Security systems and controls.
+- Common vulnerabilities in systems.
+- Threats to asset security.
 
 ---
 ## Week 1
@@ -31,8 +30,7 @@
 
 ---
 ## Week 4
-- 
-- 
-- 
-- 
-- 
+- Social engineering.
+- Malware.
+- Web-based exploits.
+- Threat modeling process.
