@@ -23,10 +23,11 @@
 
 ---
 ## Week 3
-- 
-- 
-- 
-- 
+- Vulnerability management process.
+- Defense in depth model.
+- The CVE list.
+- Attack surfaces.
+- Common attack vectors.
 
 ---
 ## Week 4
