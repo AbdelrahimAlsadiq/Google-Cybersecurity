@@ -5,7 +5,10 @@
 
 ---
 ## Week 1
-- 
+- Incident response lifecycle.
+- Incident handler's journal.
+- Incident response teams.
+- Documentation, detection, and management tools.
 
 ---
 ## Week 2
