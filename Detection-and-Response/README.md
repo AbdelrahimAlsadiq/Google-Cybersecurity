@@ -12,7 +12,9 @@
 
 ---
 ## Week 2
-- 
+- Network traffic flows.
+- Packet sniffers.
+- Packet analysis.
 
 ---
 ## Week 3
