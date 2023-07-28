@@ -18,7 +18,9 @@
 
 ---
 ## Week 3
-- 
+- Investigate and verify an incident.
+- Plans and processes behind incident response.
+- Post-incident actions.
 
 ---
 ## Week 4
