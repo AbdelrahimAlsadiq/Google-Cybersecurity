@@ -1,4 +1,4 @@
-<img align='center' src='' width='100%'>
+<img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Detection-and-Response/Certificate.jpg' width='100%'>
 
 # Course Outline
 -  Incident response lifecycle.
