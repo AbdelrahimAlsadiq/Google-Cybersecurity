@@ -24,5 +24,7 @@
 
 ---
 ## Week 4
-- 
+- Read and analyze logs.
+- Interpret signatures.
+- Search in SIEM tools.
 
