@@ -5,7 +5,11 @@
 
 ---
 ## Week 1
-- 
+- Basics of programming.
+- Data types.
+- Variables.
+- Conditional statements.
+- Iterative statements.
 
 ---
 ## Week 2
