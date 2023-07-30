@@ -1,4 +1,4 @@
-### Comments
+## Comments
 - A note programmers make about the intention behind their code.
 - Syntax:
     ```python
@@ -12,7 +12,7 @@
     """
     ```
 ---
-### Conditional Statements:
+## Conditional Statements:
 - Syntax:
   ```python
   if condition :
@@ -22,7 +22,7 @@
   ```
   >Note: "else" is optional, and for multiple conditions we can simplify it to "elif"
 ---
-### For Loop:
+## For Loop:
 - Syntax:
   ```python
   for LoopVariable in Sequence:
@@ -30,25 +30,25 @@
   ```
   >Note: "Sequence" can be generated using range() function.
 ---
-### While Loop:
+## While Loop:
 - Syntax:
   ```python
   while condition:
     statements
   ```
 ---
-### Built-in Functions
+## Built-in Functions
 </br>
 
-##### print()
+### print()
 - Outputs a specified object to the screen.
 
 </br>
 
-##### type()
+### type()
 - Shows the type of an object.
 
 </br>
 
-##### range()
+### range()
 - Generates a sequence of numbers.
