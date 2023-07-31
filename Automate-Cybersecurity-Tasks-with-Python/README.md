@@ -20,7 +20,10 @@
 
 ---
 ## Week 3
-- 
+- Working with strings and lists
+- Writing algorithms.
+- Using regular expressions.
+
 ---
 ## Week 4
 - 
