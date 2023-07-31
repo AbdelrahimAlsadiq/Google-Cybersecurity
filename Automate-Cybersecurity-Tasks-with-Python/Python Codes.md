@@ -155,19 +155,41 @@
 
 </br>
 
+### `re.findall(expression, obj)`
+- Returns a list of matches to a regular expression.
+
+</br>
+
 ### `+`
 - Represents one or more occurrences of a specific character.
+
+</br>
+
+### `.`
+- matches to all characters, including symbols
+>Note: for period character, you can use "`\.`".
 
 </br>
 
 ### `\w`
 - Matches with any alphanumeric character but it doesn't match symbols.
 
+
 </br>
 
-### `re.findall(expression, obj)`
-- Returns a list of matches to a regular expression.
+### `\d`
+- matches to all single digits [0-9].
 
+</br>
 
+### `\s`
+- matches to all single spaces.
+
+</br>
+
+### `+`
+- Represents one or more occurrences of a specific character.
+
+</br>
 
 
