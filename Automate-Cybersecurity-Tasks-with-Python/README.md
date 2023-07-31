@@ -13,7 +13,10 @@
 
 ---
 ## Week 2
-- 
+- Functions.
+- Modules and libraries.
+- Code readability.
+
 
 ---
 ## Week 3
