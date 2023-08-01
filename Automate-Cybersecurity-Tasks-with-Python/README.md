@@ -1,7 +1,10 @@
-<img align='center' src='' width='100%'>
+<img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Automate-Cybersecurity-Tasks-with-Python/Certificate.jpg' width='100%'>
 
 # Course Outline
-- 
+- Programming concepts in Python.
+- Writing effective Python code.
+- Working with strings and lists.
+- Putting Python into practice.
 
 ---
 ## Week 1
@@ -26,4 +29,7 @@
 
 ---
 ## Week 4
-- 
+- Opening and reading files.
+- Parsing files.
+- Debugging code.
+
