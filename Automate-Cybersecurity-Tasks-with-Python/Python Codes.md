@@ -117,6 +117,22 @@
 
 </br>
 
+### `.split("pattern")`
+- Converts a string into a list.
+> Examples:
+>- "Hello-World".split("-") will produce: ["Hello", "World"].
+>- "Hello World".split() will produce: ["Hello", "World"] (default value of the pattern is a space).
+
+</br>
+
+### `"pattern".join(obj)`
+- Concatenates the elements of an iterable object into a string.
+> Examples:
+>- "".split("-") will produce: ["Hello", "World"].
+>- "Hello World".split() will produce: ["Hello", "World"] (default value of the pattern is a space).
+
+</br>
+
 ### `.index()`
 - Finds the first occurrence of the input in a string and returns its location.
 
@@ -185,11 +201,48 @@
 ### `\s`
 - matches to all single spaces.
 
-</br>
-
-### `+`
-- Represents one or more occurrences of a specific character.
+---
+## Managing Files
 
 </br>
+
+### `with`
+- Handles errors and manages external resources.
+
+</br>
+
+### `with open("filePath", "action") as file:`
+- Opens a specified file and stores it in `file` object.
+>"action" can be:
+  >- "r" for read.
+  >- "w" for write (removes existing text).
+  >- "a" for append (write without removing existing text).
+
+</br>
+
+### `file.read()`
+- Converts file contents into strings.
+
+</br>
+
+### `file.write()`
+- Writes string data to a specific file.
+
+</br>
+
+### `Example:`
+- ```python
+  # Read data from a file:
+  with open("F:\\Desktop\\file.txt", "r") as file:
+    text = file.read()
+  print(text)
+
+  # Write data to a file:
+  data = "Hello Python!"
+  with open("F:\\Desktop\\file.txt", "w") as file:
+    file.write(data)
+  ```
+  >Output1: File contents.
+
 
 
