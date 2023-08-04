@@ -17,7 +17,10 @@
 
 ---
 ## Week 3
-- 
+- Stakeholders.
+- Roles.
+- Communication strategies.
+
 
 ---
 ## Week 4
