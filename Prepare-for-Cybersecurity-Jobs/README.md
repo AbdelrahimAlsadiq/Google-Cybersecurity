@@ -11,7 +11,9 @@
 
 ---
 ## Week 2
-- 
+- Incident escalation process.
+- Incident classification.
+- General guidelines for escalating incidents.
 
 ---
 ## Week 3
