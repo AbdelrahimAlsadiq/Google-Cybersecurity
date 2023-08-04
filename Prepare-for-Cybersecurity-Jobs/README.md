@@ -21,14 +21,18 @@
 - Roles.
 - Communication strategies.
 
-
 ---
 ## Week 4
-- 
+- Security resources.
+- Security community.
+- Career in security.
 
 ---
 ## Week 5
--
+- Create resume.
+- Develop rapport with interviewers.
+- How to use STAR method.
+- Develop an elevator pitch
 
 
 
