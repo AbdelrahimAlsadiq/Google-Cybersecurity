@@ -1,7 +1,11 @@
-<img align='center' src='' width='100%'>
+<img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Prepare-for-Cybersecurity-Jobs/Certificate.jpg' width='100%'>
 
 # Course Outline
-- 
+- Protect assets and communicate incidents.
+- Escalate incidents.
+- Communicate effectively to influence stakeholders.
+- Engage with security community.
+- Find, prepare for, and apply for security jobs.
 
 ---
 ## Week 1
