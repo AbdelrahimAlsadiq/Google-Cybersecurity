@@ -1,7 +1,11 @@
 # Google-Cybersecurity
+ 
  This Repository has all notes that I've taken through the Google Cybersecurity Professional Certifcate.
+
  ---
+
  <img align='center' src='https://github.com/AbdelrahimAlsadiq/Google-Cybersecurity/blob/main/Certificate.jpg' width='100%'>
+
  ---
 
 ## Program Outline:
