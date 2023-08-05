@@ -1,6 +1,6 @@
-# Google-Cybersecurity
+# Google Cybersecurity Professional
  
- This Repository has all notes that I've taken through the Google Cybersecurity Professional Certifcate.
+ This Repository has all notes that I've taken through the Google Cybersecurity Professional Certifcate program.
 
  ---
 
